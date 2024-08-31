@@ -4,7 +4,10 @@
 - 📫 How to reach me khizarahmad3333@gmail.com
 
 Skills
-[[![Python]](https://www.svgrepo.com/show/376344/python.svg)](https://www.python.org/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
 <!---
 Khizar3333/Khizar3333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
